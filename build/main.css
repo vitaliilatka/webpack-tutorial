@@ -1,0 +1,7 @@
+body {
+    background-color: teal;
+    min-height: 100vh;
+}
+html {
+    box-sizing: border-box;
+}
